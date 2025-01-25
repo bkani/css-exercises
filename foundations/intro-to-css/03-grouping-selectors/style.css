@@ -1,0 +1,13 @@
+.monochrome, .caution {
+	font-size: 28px;
+	font-family: Helvetica, Times, sans-serif;
+}
+
+.monochrome {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.caution {
+	background-color: #ffff00;
+}
